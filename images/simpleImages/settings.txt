@@ -1,0 +1,8 @@
+1,79,secondsBackgroundCoord
+88,118,minuteBackgroundCoord
+91,121,minuteArrowCoord
+32,107,secondsArrowCoord
+163,86,resetButtonCoord
+77,22,startButtonCoord
+8,296,fontCoord
+30,30,fontSize
